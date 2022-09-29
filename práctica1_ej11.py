@@ -1,3 +1,6 @@
+
+print('Jaume LLoret estuvo aquí')
+
 #Intoducir variables
 kg=float(input('Intoduce tu peso (en kg): '))
 h=float(input('Introduce tu altura (en m): '))
