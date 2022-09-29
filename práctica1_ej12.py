@@ -11,3 +11,4 @@ else:
     elif dias>1 and dias<6:
         precio=11+6*dias
         print('El importe a pagar son {0}€.'.format(precio))
+        print('Gracias por elegir nuestro estacionamiento.')
